@@ -32,11 +32,13 @@ Example:
 
 ## 🚀 How to Run
 1. Clone this repository:
-```bash
+```python
+bash
 git clone https://github.com/yourusername/HP2-Hospital-Data-Cleaning.git
 ```
 2. Install dependencies:
-```bash
+```python
+bash
 pip install pandas numpy
 Open the notebook in Jupyter and run the cells step by step.
 ```
