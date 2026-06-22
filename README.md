@@ -39,9 +39,11 @@ git clone https://github.com/yourusername/HP2-Hospital-Data-Cleaning.git
 2. Install dependencies:
 ```python
 bash
-pip install pandas numpy
-Open the notebook in Jupyter and run the cells step by step.
+pip install pandas
 ```
+
+Open the notebook in Jupyter and run the cells step by step.
+
 
 ## 📊 Example Outputs
 - Cleaned patient dataset
